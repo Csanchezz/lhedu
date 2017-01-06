@@ -1,0 +1,7 @@
+Django==1.10.5
+django-braces==1.10.0
+django-simple-menu==1.2.1
+django-widget-tweaks==1.4.1
+easy-thumbnails==2.3
+olefile==0.43
+Pillow==4.0.0
